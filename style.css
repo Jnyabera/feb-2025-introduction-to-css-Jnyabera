@@ -1,0 +1,44 @@
+/* 1. Element selector */
+body {
+  font-family: 'Verdana', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  margin: 0;
+  padding: 0;
+}
+
+/* 2. ID selector */
+#main-header {
+  background-color: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  border-bottom: 4px solid #003366;
+}
+
+/* 3. Class selector */
+.intro {
+  margin: 30px;
+  padding: 20px;
+  background-color: #ffffff;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+}
+
+/* Style an image */
+.profile-img {
+  width: 200px;
+  border: 3px solid #004080;
+  padding: 5px;
+  border-radius: 10px;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Footer styling */
+footer {
+  text-align: center;
+  padding: 15px;
+  background-color: #e0e0e0;
+  margin-top: 40px;
+}
